@@ -7,5 +7,5 @@ pip install requests
 pip install regex
 pip install nltk
 bash requirement.sh
-pip install sapcy
+pip install spacy
 python -m spacy download en_core_web_sm
